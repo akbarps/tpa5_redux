@@ -7,7 +7,7 @@ function App() {
 
 
   return (
-    <Container style={{marginTop:'200px',backgroundColor:'bisque',borderRadius:'50px',textAlign:'center',maxWidth:'900px',padding:'20px'}}>
+    <Container style={{marginTop:'100px',backgroundColor:'bisque',borderRadius:'30px',textAlign:'center',maxWidth:'900px',padding:'20px'}}>
       <h2>TODO LIST</h2>
       <FormAddTodo/>
       <TodoItems/>
